@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/Exercise-1.csproj",
-      "projectName": "Exercise-1",
-      "projectPath": "/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/Exercise-1.csproj",
+      "projectUniqueName": "/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-2/Exercise-2/Exercise-2.csproj",
+      "projectName": "Exercise-2",
+      "projectPath": "/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-2/Exercise-2/Exercise-2.csproj",
       "packagesPath": "/Users/taylorcox/.nuget/packages/",
-      "outputPath": "/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/obj/",
+      "outputPath": "/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-2/Exercise-2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

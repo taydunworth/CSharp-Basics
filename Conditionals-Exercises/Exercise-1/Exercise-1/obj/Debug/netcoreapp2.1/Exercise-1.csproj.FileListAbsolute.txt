@@ -1,0 +1,11 @@
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/bin/Debug/netcoreapp2.1/Exercise-1.deps.json
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/bin/Debug/netcoreapp2.1/Exercise-1.runtimeconfig.json
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/bin/Debug/netcoreapp2.1/Exercise-1.runtimeconfig.dev.json
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/bin/Debug/netcoreapp2.1/Exercise-1.dll
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/bin/Debug/netcoreapp2.1/Exercise-1.pdb
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/obj/Debug/netcoreapp2.1/Exercise-1.csprojAssemblyReference.cache
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/obj/Debug/netcoreapp2.1/Exercise-1.csproj.CoreCompileInputs.cache
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/obj/Debug/netcoreapp2.1/Exercise-1.AssemblyInfoInputs.cache
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/obj/Debug/netcoreapp2.1/Exercise-1.AssemblyInfo.cs
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/obj/Debug/netcoreapp2.1/Exercise-1.dll
+/Users/taylorcox/Projects/CSharp-Basics/Conditionals-Exercises/Exercise-1/Exercise-1/obj/Debug/netcoreapp2.1/Exercise-1.pdb
