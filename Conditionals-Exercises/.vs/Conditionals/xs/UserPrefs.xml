@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A602FD5C-858C-4774-9C8F-CF4EECEBC212}|Default">
+  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conditionals-Exercises/ExerciseOne.cs">
+    <Files>
+      <File FileName="Conditionals-Exercises/Program.cs" Line="21" Column="12" />
+      <File FileName="Conditionals-Exercises/ExerciseTwo.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Conditionals" expanded="True">
+            <Node name="Conditionals" expanded="True">
+              <Node name="ExerciseOne.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
