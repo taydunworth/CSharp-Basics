@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{AFE9DADC-C556-4EB2-97D7-EDBF2E8DD2C3}|Default">
-  <MonoDevelop.Ide.ItemProperties.Exercise-2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exercise-2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Exercise-2/Program.cs">
     <Files>
-      <File FileName="Exercise-2/Program.cs" Line="1" Column="1" />
+      <File FileName="Exercise-2/Program.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
