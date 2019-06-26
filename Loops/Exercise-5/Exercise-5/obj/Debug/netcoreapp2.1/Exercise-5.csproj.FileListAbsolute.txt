@@ -1,0 +1,11 @@
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/bin/Debug/netcoreapp2.1/Exercise-5.deps.json
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/bin/Debug/netcoreapp2.1/Exercise-5.runtimeconfig.json
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/bin/Debug/netcoreapp2.1/Exercise-5.runtimeconfig.dev.json
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/bin/Debug/netcoreapp2.1/Exercise-5.dll
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/bin/Debug/netcoreapp2.1/Exercise-5.pdb
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/obj/Debug/netcoreapp2.1/Exercise-5.csprojAssemblyReference.cache
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/obj/Debug/netcoreapp2.1/Exercise-5.csproj.CoreCompileInputs.cache
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/obj/Debug/netcoreapp2.1/Exercise-5.AssemblyInfoInputs.cache
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/obj/Debug/netcoreapp2.1/Exercise-5.AssemblyInfo.cs
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/obj/Debug/netcoreapp2.1/Exercise-5.dll
+/Users/taylorcox/Projects/CSharp-Basics/Loops/Exercise-5/Exercise-5/obj/Debug/netcoreapp2.1/Exercise-5.pdb
