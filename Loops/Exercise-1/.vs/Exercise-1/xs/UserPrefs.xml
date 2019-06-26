@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{3BEC72B6-BAAA-48CA-81B7-0886B29CDEE9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise-4/Program.cs">
+﻿<Properties StartupConfiguration="{E60AB2C4-255F-4091-BB89-6A801D56E23A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise-1/Program.cs">
     <Files>
-      <File FileName="Exercise-4/Program.cs" Line="33" Column="18" />
+      <File FileName="Exercise-1/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Exercise-4" expanded="True">
-            <Node name="Exercise-4" expanded="True">
+          <Node name="Exercise-1" expanded="True">
+            <Node name="Exercise-1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Exercise-4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exercise-1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
