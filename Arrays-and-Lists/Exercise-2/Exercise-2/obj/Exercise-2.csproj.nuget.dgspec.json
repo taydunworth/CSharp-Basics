@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-2/Exercise-2/Exercise-2.csproj": {}
+  },
+  "projects": {
+    "/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-2/Exercise-2/Exercise-2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-2/Exercise-2/Exercise-2.csproj",
+        "projectName": "Exercise-2",
+        "projectPath": "/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-2/Exercise-2/Exercise-2.csproj",
+        "packagesPath": "/Users/taylorcox/.nuget/packages/",
+        "outputPath": "/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-2/Exercise-2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/taylorcox/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
