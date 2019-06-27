@@ -1,0 +1,11 @@
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/obj/Debug/netcoreapp2.1/Exercise-4.csprojAssemblyReference.cache
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/obj/Debug/netcoreapp2.1/Exercise-4.csproj.CoreCompileInputs.cache
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/obj/Debug/netcoreapp2.1/Exercise-4.AssemblyInfoInputs.cache
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/obj/Debug/netcoreapp2.1/Exercise-4.AssemblyInfo.cs
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/bin/Debug/netcoreapp2.1/Exercise-4.deps.json
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/bin/Debug/netcoreapp2.1/Exercise-4.runtimeconfig.json
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/bin/Debug/netcoreapp2.1/Exercise-4.runtimeconfig.dev.json
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/bin/Debug/netcoreapp2.1/Exercise-4.dll
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/bin/Debug/netcoreapp2.1/Exercise-4.pdb
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/obj/Debug/netcoreapp2.1/Exercise-4.dll
+/Users/taylorcox/Projects/CSharp-Basics/Arrays-and-Lists/Exercise-4/Exercise-4/obj/Debug/netcoreapp2.1/Exercise-4.pdb
